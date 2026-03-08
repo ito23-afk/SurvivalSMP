@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:oak_fence": 84,
+      "minecraft:oak_trapdoor": 27,
+      "minecraft:grass_block": 44,
+      "minecraft:iron_chain": 4,
+      "minecraft:daylight_detector": 4,
+      "minecraft:cartography_table": 1,
+      "minecraft:oak_slab": 30,
+      "minecraft:gravel": 2,
+      "minecraft:map": 2,
+      "minecraft:stripped_oak_wood": 36,
+      "minecraft:oak_log": 32,
+      "minecraft:oak_stairs": 161,
+      "minecraft:waxed_copper_bulb": 3,
+      "minecraft:redstone_lamp": 4,
+      "minecraft:oak_planks": 61,
+      "minecraft:lantern": 13,
+      "minecraft:oak_fence_gate": 16,
+      "minecraft:short_grass": 2,
+      "minecraft:flower_pot": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 17,
+      "minecraft:lantern": 1,
+      "minecraft:allium": 2
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_cartography_table": 6,
+      "minecraft:sprint_one_cm": 2278,
+      "minecraft:time_since_rest": 40387,
+      "minecraft:walk_one_cm": 89757,
+      "minecraft:total_world_time": 40771,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 175721,
+      "minecraft:crouch_one_cm": 3653,
+      "minecraft:sneak_time": 454,
+      "minecraft:play_time": 40387,
+      "minecraft:jump": 157,
+      "minecraft:time_since_death": 40387
+    }
+  },
+  "DataVersion": 4671
+}
